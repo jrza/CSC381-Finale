@@ -48,7 +48,7 @@ To use your own images on this pipeline, please add a minimum of 6 desired image
 * The final result is displayed after the belnding cell
 4. **Saved Output:**
 * The final collage image is saved at "./outputs/final_collage.jpg"
-* *NOTE: Due to the nature of Jupyter, this file is overwritten with every new run so please move or rename the file if it is desired to be kept.
+* **NOTE:** Due to the nature of Jupyter, this file is overwritten with every new run so please move or rename the file if it is desired to be kept.
 
 ## 5. Files Included
 * "CSC381_final_JazibWR.ipynb": The actual code implementation of the pipeline
@@ -57,6 +57,7 @@ To use your own images on this pipeline, please add a minimum of 6 desired image
 * "images/": This is the input directory, that also comes preloaded with 6 images from original dataset
 * "outputs/": A separate folder serving as the place where the generated collage output is stored
 	
+
 
 
 
