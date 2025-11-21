@@ -30,7 +30,7 @@ This is done to allow user to run it immediately for testing/grading while still
 To obtain the original testing workflow, please access the remaining images from the dataset stored in the cloud link below.
 **NOTE: The cloud repository does not contain the preset images from the dataset already in the Preset Sample, please add the remaining images to the "images" directory instead of starting anew**
 
-**Cloud Link: ** Google Drive: https://drive.google.com/drive/u/0/folders/1RrvETnaCnV7YIcfKzI2JWvbGAi5yhE11
+**Cloud Link:** Google Drive: https://drive.google.com/drive/u/0/folders/1RrvETnaCnV7YIcfKzI2JWvbGAi5yhE11
 
 ### c. Custom Sample
 To use your own images on this pipeline, please add a minimum of 6 desired images to the "images" directory after deleting any test-case images.
@@ -57,4 +57,5 @@ To use your own images on this pipeline, please add a minimum of 6 desired image
 * "Images/": This is the input directory, that also comes preloaded with 6 images from original dataset
 * "Outputs/": A separate folder serving as the place where the generated collage output is stored
 	
+
 
